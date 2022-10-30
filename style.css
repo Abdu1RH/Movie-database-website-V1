@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+
+
+body {
+    background-color: ghostwhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+#btn2014 {
+    background-color: yellow;
+    color: black;
+    padding: 1px 15px;
+    text-align: center;
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+
+#ratingbtn {
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: cadetblue;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+}
+
+
+
+li {list-style-type: none;}
+
+
